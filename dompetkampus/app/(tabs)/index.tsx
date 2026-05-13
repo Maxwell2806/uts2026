@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
   headerSaldo: { 
     marginTop: 40, 
     padding: 25, 
-    backgroundColor: '#34495e', 
+    backgroundColor: '#1e3b59', 
     borderRadius: 15, 
     alignItems: 'center',
     elevation: 5 
